@@ -1,4 +1,4 @@
-# IFT
+# datashare
 
 Installing IFT package
 
@@ -10,6 +10,6 @@ Then to install:
 
 library(devtools)
 
-install_github("hhoulei/IFT")
+install_github("hhoulei/datashare")
 
-To update the package just run the install_github("hhoulei/IFT") command again.
+To update the package just run the install_github("hhoulei/datashare") command again.
