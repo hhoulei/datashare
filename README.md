@@ -9,6 +9,7 @@ install.packages("devtools")
 Then to install:
 
 library(devtools)
+
 install_github("hhoulei/IFT")
 
 To update the package just run the install_github("hhoulei/IFT") command again.
