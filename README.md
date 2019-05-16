@@ -2,7 +2,7 @@
 
 Installing IFT package
 
-The package is hosted on github, and this allows installation and update to be very easy. First make sure you have the devtools package ## installed:
+The package is hosted on github, and this allows installation and update to be very easy. First make sure you have the devtools package installed:
 
 install.packages("devtools")
 
